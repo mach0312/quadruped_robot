@@ -1,0 +1,5 @@
+Symlinking /home/jaerak/quadruped_robot/devel/share/dynamixel_sdk/cmake/dynamixel_sdkConfig.cmake
+Symlinking /home/jaerak/quadruped_robot/devel/share/dynamixel_sdk/cmake/dynamixel_sdkConfig-version.cmake
+Symlinking /home/jaerak/quadruped_robot/devel/lib/libdynamixel_sdk.so
+Symlinking /home/jaerak/quadruped_robot/devel/lib/pkgconfig/dynamixel_sdk.pc
+Symlinking /home/jaerak/quadruped_robot/devel/lib/python2.7/dist-packages/dynamixel_sdk/__init__.py

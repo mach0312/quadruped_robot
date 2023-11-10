@@ -1,0 +1,6 @@
+devel_space: /home/jaerak/quadruped_robot/devel
+install: false
+install_space: /home/jaerak/quadruped_robot/install
+profile: default
+source_space: /home/jaerak/quadruped_robot/src
+workspace: /home/jaerak/quadruped_robot

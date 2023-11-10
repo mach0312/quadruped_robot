@@ -1,0 +1,1 @@
+/home/jaerak/quadruped_robot/ros/dynamixel_sdk_examples/devel/.private/catkin_tools_prebuild/local_setup.zsh

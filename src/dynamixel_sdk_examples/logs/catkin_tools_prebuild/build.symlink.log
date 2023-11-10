@@ -1,0 +1,12 @@
+Symlinking /home/jaerak/quadruped_robot/ros/dynamixel_sdk_examples/devel/./local_setup.sh
+Symlinking /home/jaerak/quadruped_robot/ros/dynamixel_sdk_examples/devel/./local_setup.zsh
+Symlinking /home/jaerak/quadruped_robot/ros/dynamixel_sdk_examples/devel/./_setup_util.py
+Symlinking /home/jaerak/quadruped_robot/ros/dynamixel_sdk_examples/devel/./setup.sh
+Symlinking /home/jaerak/quadruped_robot/ros/dynamixel_sdk_examples/devel/./setup.zsh
+Symlinking /home/jaerak/quadruped_robot/ros/dynamixel_sdk_examples/devel/./cmake.lock
+Symlinking /home/jaerak/quadruped_robot/ros/dynamixel_sdk_examples/devel/./env.sh
+Symlinking /home/jaerak/quadruped_robot/ros/dynamixel_sdk_examples/devel/./setup.bash
+Symlinking /home/jaerak/quadruped_robot/ros/dynamixel_sdk_examples/devel/./local_setup.bash
+Symlinking /home/jaerak/quadruped_robot/ros/dynamixel_sdk_examples/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/jaerak/quadruped_robot/ros/dynamixel_sdk_examples/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/jaerak/quadruped_robot/ros/dynamixel_sdk_examples/devel/lib/pkgconfig/catkin_tools_prebuild.pc

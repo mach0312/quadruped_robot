@@ -1,0 +1,6 @@
+devel_space: /home/jaerak/quadruped_robot/ros/dynamixel_sdk/devel
+install: false
+install_space: /home/jaerak/quadruped_robot/ros/dynamixel_sdk/install
+profile: default
+source_space: /home/jaerak/quadruped_robot/ros/dynamixel_sdk/src
+workspace: /home/jaerak/quadruped_robot/ros/dynamixel_sdk

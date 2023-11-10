@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jaerak/quadruped_robot/ros/dynamixel_sdk_examples/install/setup.sh
